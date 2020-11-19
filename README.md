@@ -3,4 +3,5 @@ This is just for testing out GIT
 2nd Change
 3rd change
 
-Edit from test_branch!
+1st Edit from test_branch!
+2nd Edit from test branch!
